@@ -1,0 +1,24 @@
+#result1{
+width: 50px;
+}
+#result2{
+    width: 50px;
+}
+#result3{
+    width: 50px;
+}
+#footer{
+    align-self: baseline;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+img{
+    border:5px solid black;
+    margin:100px;
+    padding:10px;
+}
+img:hover{
+    border-radius: 100px;
+    }
+    
